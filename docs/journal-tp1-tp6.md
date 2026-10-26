@@ -131,11 +131,11 @@ python -m pytest -q
 
 **Obtenu** (version de Python, résumé du diagnostic, dernière ligne de pytest) :
 
-```text
-À compléter
+``
+Python 3.11.x` ; une installation sans erreur ; 38 passed ,
 ```
 
-- [ ] Conforme
+- [x ] Conforme
 
 **Commentaire** (que réclament les trois échecs, et pourquoi quatre tests sont ignorés ?) :
 
@@ -154,11 +154,12 @@ python -m pytest -q
 
 **Obtenu** :
 
-```text
-À compléter
+```
+12 passed,puis 38 passed
+
 ```
 
-- [ ] Conforme
+- [x] Conforme
 
 **Commentaire** (l'approche retenue pour chacun des trois cas, et les deux critères qui la justifient) :
 
