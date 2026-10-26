@@ -33,3 +33,4 @@ Une réponse incorrecte peut induire un étudiant en erreur sur ses obligations 
 Le système doit utiliser uniquement les documents officiels et éviter de divulguer des informations personnelles ou des documents accessibles uniquement à certains utilisateurs.
 
 ## Approche écartée et pourquoi (facultatif)
+

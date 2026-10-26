@@ -33,3 +33,4 @@ Un avis négatif mal classé peut retarder sa prise en charge ; les agents peuve
 Les avis peuvent contenir des informations personnelles ; les données doivent être anonymisées lorsque cela est nécessaire et leur accès limité aux personnes autorisées.
 
 ## Approche écartée et pourquoi (facultatif)
+

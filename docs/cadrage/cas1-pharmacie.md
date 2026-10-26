@@ -35,3 +35,4 @@ Une information manquante non détectée peut entraîner une délivrance inappro
 Les ordonnances contiennent des données de santé : accès limité aux personnes autorisées, anonymisation pour les tests et stockage sécurisé des données.
 
 ## Approche écartée et pourquoi (facultatif)
+
