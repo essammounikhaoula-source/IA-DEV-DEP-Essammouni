@@ -184,11 +184,12 @@ python -m pytest -q
 
 **Obtenu** (extrait de `git status`, dernière ligne de pytest) :
 
-```text
-À compléter
+```
+38 passed
+
 ```
 
-- [ ] Conforme
+- [x] Conforme
 
 **Commentaire** (quel test échoue encore, et pourquoi ?) :
 
@@ -212,10 +213,10 @@ python scripts/check_setup.py
 **Obtenu** :
 
 ```text
-À compléter
+0 erreurs
 ```
 
-- [ ] Conforme
+- [x] Conforme
 
 **Commentaire** :
 
